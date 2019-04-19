@@ -11,7 +11,7 @@ Install Valetudo automagically with ansible on mac
 
 1. (on ubuntu)
 ```
-ansible-playbook valetudo.yml
+ansible-playbook build.yml
 ```
 After that is finished make sure the folders match up
 
