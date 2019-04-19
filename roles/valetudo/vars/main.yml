@@ -1,5 +1,5 @@
 ---
-
+##make sure this next line is writable in the shared folders so that you can use it in the flash progress
 rockrobo_path: /tmp/rockrobo
 vacuum_ip: 192.168.8.1
 token: XXXXX
